@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fritofrito"
+    }
+  },
+  "defaultProject": "fritofrito",
+  "cli": {
+    "analytics": "eccb5687-58e1-4d51-916f-e46e86d2b339"
+  }
 }
